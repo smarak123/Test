@@ -1,1 +1,1 @@
-print("Hello")
+a = print("Hello")
